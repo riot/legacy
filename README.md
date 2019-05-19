@@ -1,7 +1,7 @@
 
 ## Riot 3 website
 
-http://riot.js.org
+https://riot3.gianlucaguarini.now.sh
 
 Pull requests are welcome!
 
