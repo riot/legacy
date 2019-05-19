@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "riot3",
+  "name": "v3",
   "builds": [
     { "src": "build.sh", "use": "@now/static-build", "config": { "distDir": "_site" } }
   ]
