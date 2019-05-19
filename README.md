@@ -1,5 +1,5 @@
 
-## Riot website
+## Riot 3 website
 
 http://riot.js.org
 
